@@ -1,6 +1,6 @@
 #!/bin/bash
 export KBUILD_BUILD_USER=arifxda
-export KBUILD_BUILD_HOST=arifxda
+export KBUILD_BUILD_HOST=munandar
 # Compile plox
 function compile() {
     make -j$(nproc) O=out ARCH=arm64 X01AD_defconfig
