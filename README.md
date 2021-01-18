@@ -1,2 +1,0 @@
-# building
-Script build me
